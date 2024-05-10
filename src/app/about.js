@@ -11,7 +11,7 @@ var About = React.createClass({
 			<div>
 				<Link to ={'/'}>Home</Link>
 				<h1>All about me!</h1>
-				<p style= {pStyle} >Developed by Megh Shah</p>
+				<p style= {pStyle} >Developed by Deepal Gupta</p>
 				<p style={{float:'left'}}>Developed on React</p>
 			</div>
 		);
