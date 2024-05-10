@@ -10,17 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mshah2003/react_todo_list.git"
+    "url": "git+https://github.com/Deepalgupta/react_todo_list.git"
   },
   "keywords": [
     "react"
   ],
-  "author": "Megh Shah",
+  "author": "Deepal Gupta",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mshah2003/react_todo_list/issues"
+    "url": "https://github.com/Deepalgupta/react_todo_list/issues"
   },
-  "homepage": "https://github.com/Mshah2003/react_todo_list#readme",
+  "homepage": "https://github.com/Deepalgupta/react_todo_list#readme",
   "dependencies": {
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
